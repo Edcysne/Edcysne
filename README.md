@@ -1,7 +1,6 @@
 <!--- link of the hand gif --->
 ## Hi there <img src="./images/funny_hello.gif" width="35" alt="hello" />
-I'm a self-taught Data Analyst and Business Intelligence Consultant from Brazil, but currently living in Portugal. I'm currently helping others with data analysis projects and developing more skills in data engineering with end-to-end real life projects.
-📄 **[Check my Resumé!](./files/CV%20Standard%20-%20Eduardo%20Cysne%20(EN).pdf)**
+I'm a self-taught Data Analyst and Business Intelligence Consultant from Brazil, but currently living in Portugal. I help others with data analysis projects and developing more skills in data engineering with end-to-end real-life projects. If you are interested in knowing more about me, **[check my Resumé!](./files/CV%20Standard%20-%20Eduardo%20Cysne%20(EN).pdf)** 📄
 
 ### My Certificates 🎖️
 All the certificates I've achieved in my career, in reverse chronological order (newest to oldest)!
