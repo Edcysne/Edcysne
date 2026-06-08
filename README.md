@@ -31,6 +31,8 @@ These are the main tools I use to do my job, all of which I have hands-on experi
   &nbsp;&nbsp;
   <img src="./svg/vba.svg" width="48" height="48" alt="VBA" />
   &nbsp;&nbsp;
+  <img src="./svg/vscode.svg" width="48" height="48" alt="Vscode" />
+  &nbsp;&nbsp;
   <img src="./svg/power_apps.svg" width="48" height="48" alt="Power Apps" />
   &nbsp;&nbsp;
   <img src="./svg/power_automate.svg" width="48" height="48" alt="Power Automate" />
