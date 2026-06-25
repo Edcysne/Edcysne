@@ -31,7 +31,13 @@ These are the main tools I use to do my job, all of which I have hands-on experi
   &nbsp;&nbsp;
   <img src="./svg/vba.svg" width="48" height="48" alt="VBA" />
   &nbsp;&nbsp;
+  <img src="./svg/html.svg" width="48" height="48" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="./svg/css.svg" width="48" height="48" alt="CSS" />
+  &nbsp;&nbsp;
   <img src="./svg/vscode.svg" width="48" height="48" alt="Vscode" />
+  &nbsp;&nbsp;
+  <img src="./svg/figma.svg" width="48" height="48" alt="Figma" />
   &nbsp;&nbsp;
   <img src="./svg/github.svg" width="52" height="52" alt="Github" />
   &nbsp;&nbsp;
