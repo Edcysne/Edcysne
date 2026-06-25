@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="css.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1" /><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g3013"
+       transform="matrix(0.37559957,0,0,0.37559957,4.3133304,3.357443)"><g
+         id="g1"
+         transform="matrix(0.70442928,0,0,0.70442928,75.761957,34.257372)"><path
+           fill="#e44d26"
+           d="M -6.5542023,611.04671 -65.714957,-52.987997 H 584.69485 L 525.53409,610.68816 258.95212,684.54947"
+           id="path2"
+           style="stroke-width:1.79275" /><path
+           fill="#f16529"
+           d="M 259.48994,628.07784 V 1.5116124 H 525.35482 L 474.61998,568.0207"
+           id="path3"
+           style="stroke-width:1.79275" /><path
+           fill="#ebebeb"
+           d="M 55.116408,82.723201 H 259.48994 V 164.11407 H 144.39537 l 7.52955,83.36288 h 107.56502 v 81.21159 H 77.346512 m 3.585501,40.87471 h 81.749407 l 5.7368,65.07683 91.07172,24.38141 v 84.97636 L 92.405615,497.38634"
+           id="path4"
+           style="stroke-width:1.79275" /><path
+           fill="#ffffff"
+           d="M 463.14638,82.723201 H 259.13139 v 81.390869 h 196.48544 m -7.35028,83.36288 H 259.13139 v 81.39086 h 100.39402 l -9.50157,105.77227 -90.89245,24.38141 v 84.61781 l 166.72578,-46.25296"
+           id="path5"
+           style="stroke-width:1.79275" /></g></g></g></svg>
